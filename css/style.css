@@ -11,6 +11,20 @@ body, html {
   width: 30%;
   display: inline-block;
 }
+.small {
+  width: 100%;
+  height: 100%;
+}
+
+.med {
+  width: 201.5%;
+  height: 201.5%;
+}
+
+.large {
+  width: 303%;
+  height: 303%;
+}
 .container, h1 {
   width: 80%;
   max-width: 600px;
